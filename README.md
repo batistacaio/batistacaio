@@ -1,7 +1,6 @@
 ### Caio Batista
 <hr>
 
-<br>
 
 * Web dev. student migrating to this amazing world of development, trying to learn something new every day. :ballot_box_with_check: <br>
 * Contact: caio_b_s@hotmail.com
