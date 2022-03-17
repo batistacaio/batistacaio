@@ -1,9 +1,10 @@
-### Olá 👋 Bem-vindo(a) ao meu GitHub!
+### Caio Batista
+<hr>
 
 <br>
 
-* Sou estudante de desenvolvimento web, migrando pra esse incrível mundo da programação em busca de novos desafios. :ballot_box_with_check: <br>
-* Contato: caio_b_s@hotmail.com
+* Web dev. student migrating to this amazing world of development, trying to learn something new every day. :ballot_box_with_check: <br>
+* Contact: caio_b_s@hotmail.com
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-batista-5a1850169/)
