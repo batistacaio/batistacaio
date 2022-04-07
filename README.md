@@ -1,5 +1,4 @@
-### Caio Batista
-<hr>
+## :zap: Hi, my name is Caio! ##
 
 
 * Web dev. student migrating to this amazing world of development, trying to learn something new every day. :ballot_box_with_check: <br>
