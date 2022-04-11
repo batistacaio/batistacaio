@@ -1,7 +1,7 @@
 ## :zap: Hi, my name is Caio! ##
 
 
-* Web dev. student migrating to this amazing world of development, trying to learn something new every day. :ballot_box_with_check: <br>
+* Web development student unraveling this amazing world of programming, trying to learn something new every day. :ballot_box_with_check: <br>
 * Studying React and Python
 * Contact: caio_b_s@hotmail.com
 <br>
