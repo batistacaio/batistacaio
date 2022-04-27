@@ -2,7 +2,7 @@
 
 
 * Web development student unraveling this amazing world of programming, trying to learn something new every day. :ballot_box_with_check: <br>
-* Studying React ⚛️ and Python :snake:
+* Studying Python and Django
 * Contact: caio_b_s@hotmail.com 📫
 <br>
 
