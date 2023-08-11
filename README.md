@@ -5,11 +5,13 @@
 * Contact: caio_b_s@hotmail.com 📫
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistacaio&layout=compact&theme=dracula)](https://github.com/batistacaio/github-readme-stats)<br>
-[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistacaio&show_icons=true&theme=dracula)](https://github.com/batistacaio/github-readme-stats)
+
