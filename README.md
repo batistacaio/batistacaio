@@ -13,5 +13,4 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistacaio&layout=compact&theme=dracula)](https://github.com/batistacaio/github-readme-stats)<br>
-
+![batistacaio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batistacaio&theme=dracula&show_icons=true&hide_border=true&layout=compact)
